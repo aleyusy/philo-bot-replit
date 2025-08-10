@@ -1,0 +1,10 @@
+python-telegram-bot==20.8
+flask
+requests
+chromadb
+torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+python-dotenv
+PyPDF2
+python-docx
+unstructured
