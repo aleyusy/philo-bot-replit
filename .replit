@@ -1,3 +1,7 @@
 run = "python main.py"
 language = "python"
-nix = ["python310"]
+
+[nix]
+packages = [
+  "python310"
+]
